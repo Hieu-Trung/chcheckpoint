@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.nav{
+  height : 80px;
+  width :100%;
+  background-color :#61dafb;
+}
+.list{
+  display: flex;
+  list-style: none;
+  font-size: 18px;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  margin: 0;
+}
+li{
+  margin :10px;
+  
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color : #333;
+  font-size: 18px;
+}
